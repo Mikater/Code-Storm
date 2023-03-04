@@ -372,6 +372,7 @@
 "Assets/Scripts/Bullet.cs"
 "Assets/Scripts/Character.cs"
 "Assets/Scripts/Enemy.cs"
+"Assets/Scripts/Enemy_Guardian.cs"
 "Assets/Scripts/Weapon.cs"
 -langversion:9.0
 
